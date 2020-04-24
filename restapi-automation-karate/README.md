@@ -1,6 +1,6 @@
-## Karate Boilerplate
+# Karate Boilerplate
 
-#Karate - Rest API Automation Suite 
+## Karate - Rest API Automation Suite 
 
 These API tests are written using Karate framework with Junit runner and JavaScript utility functions
 
@@ -10,11 +10,11 @@ Framework features:
 
 ## Instructions for running tests
 
-# Pre-requisities
+### Pre-requisities
 * [Maven](http://maven.apache.org/)
 * [JDK](https://www.oracle.com/in/java/technologies/javase-downloads.html)
 
-## Running tests 
+### Running tests 
 1. Navigate to 'restapi-automation-karate' folder
 2. do `mvn clean install -Dkarate.env="staging" -Dcucumber.options=""`
 
